@@ -1,4 +1,2 @@
-
-
-# Diagnosis Heart Disease
+# Diagnosis Heart Disease using Fuzzy Logic
 
